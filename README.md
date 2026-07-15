@@ -31,3 +31,8 @@ This delivers real, quantified evidence for the *coarse* universality claim in t
 ```bash
 python universality_v2.py
 ```
+
+---
+
+## Implemented next step: 12 correlated cues + informative null
+See `next_more_cues.py`. With 12 cues, cross-architecture CKA=0.56 vs permutation-null 0.26, **p=0.024** — statistically significant representational universality (the 4-cue null was too high to conclude).
