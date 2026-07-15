@@ -1,0 +1,11 @@
+{
+  "A(w32d1) vs A(w32d1)": 0.964,
+  "A(w32d1) vs B(w48d2)": 0.824,
+  "A(w32d1) vs C(w64d1)": 0.97,
+  "B(w48d2) vs B(w48d2)": 0.817,
+  "B(w48d2) vs C(w64d1)": 0.845,
+  "C(w64d1) vs C(w64d1)": 0.983,
+  "permutation_p": 0.405,
+  "real_AB_cka": 0.879,
+  "null_mean": 0.852
+}
